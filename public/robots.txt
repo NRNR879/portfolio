@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rahulreddy.dev/sitemap.xml
