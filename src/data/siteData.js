@@ -22,7 +22,7 @@ export const siteData = {
     emailPlaceholder: "[ADD: your.email@domain.com]",
     resumeUrl: "/resume.pdf",
     socialLinks: {
-      github: "https://github.com/RahulNandanReddy", // [ADD: your actual GitHub profile if different]
+      github: "https://github.com/NRNR879",
       linkedin: "https://www.linkedin.com/in/rahul-nandan-reddy", // [ADD: your actual LinkedIn handle]
       leetcode: "https://leetcode.com/u/Rahul_879/",
       hackerrank: "https://www.hackerrank.com/profile/nrnr879"
@@ -145,8 +145,8 @@ export const siteData = {
       build: "Engineered player jumping mechanics with gravity and velocity curves, procedural generation of cactus obstacles and cloud layers, bounding-box collision detection, real-time score tracking, game-over state transitions, and instant one-key restart loops.",
       result: "A fully playable browser game with a complete, unbreakable game loop (start, play, collision detection, game over, and restart).",
       extensionDetail: "[ADD: deployment or player count]",
-      githubUrl: "https://github.com/RahulNandanReddy/chrome-dino-runner", // [ADD: URL]
-      liveUrl: "[ADD: URL]",
+      githubUrl: "https://github.com/NRNR879/trex",
+      liveUrl: "https://nrnr879.github.io/trex/",
       isInteractive: true,
       hasDemo: true
     },
@@ -160,7 +160,7 @@ export const siteData = {
       build: "Integrated the 2D Matter.js rigid-body physics engine to model realistic gravitational acceleration, surface friction, momentum transfer, and coefficient of restitution against variable ground surfaces, rendered on an interactive p5.js canvas with continuous engine updates.",
       result: "A robust interactive simulation demonstrating fundamental physics-engine concepts, kinetic collision impulses, and real-time rigid-body constraints.",
       extensionDetail: "[ADD: extension or tuning detail]",
-      githubUrl: "https://github.com/RahulNandanReddy/physics-sandbox-matterjs", // [ADD: URL]
+      githubUrl: "https://github.com/NRNR879/my-name-is-bouncing-balll",
       liveUrl: "[ADD: URL]",
       isInteractive: true,
       hasDemo: true
